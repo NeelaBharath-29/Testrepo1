@@ -4,3 +4,6 @@ LEARNUNG AWS
 GIT
 DEVOPS
 JENKINS CI CD
+learning
+stages
+large gap
